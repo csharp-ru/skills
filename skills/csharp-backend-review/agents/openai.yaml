@@ -1,0 +1,4 @@
+interface:
+  display_name: "C# Backend Review"
+  short_description: "Ревью C#/.NET: контракты, EF Core и DI"
+  default_prompt: "Используй $csharp-backend-review для ревью текущего backend diff."
