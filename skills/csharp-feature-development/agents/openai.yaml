@@ -1,0 +1,4 @@
+interface:
+  display_name: "C# Feature Development"
+  short_description: "Разработка .NET backend-фич с preflight"
+  default_prompt: "Используй $csharp-feature-development для preflight и разработки backend-фичи в текущем репозитории."
